@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "terralith:alpha_islands_winter",
+      "required": false
+    },
+    {
+      "id": "#terralith:caves",
+      "required": false
+    },
+    {
+      "id": "#terralith:skylands",
+      "required": false
+    },
+    {
+      "id": "#terralith:mystical",
+      "required": false
+    }
+  ]
+}

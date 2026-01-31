@@ -24,5 +24,7 @@
   "pack.eclipticseasons_bundles.es_dp_x_forestry": "Ecliptic Seasons DataPack - Forestry",
   "pack_description.eclipticseasons_bundles.es_dp_x_forestry": "Adds seasonal and humidity compatibility for forestry crops.",
   "pack.eclipticseasons_bundles.es_dp_x_vital_herbs": "Ecliptic Seasons DataPack - Vital Herbs",
-  "pack_description.eclipticseasons_bundles.es_dp_x_vital_herbs": "Adds seasonal and humidity compatibility for vital herbs."
+  "pack_description.eclipticseasons_bundles.es_dp_x_vital_herbs": "Adds seasonal and humidity compatibility for vital herbs.",
+  "pack.eclipticseasons_bundles.es_x_terralith": "Ecliptic Seasons DataPack - Terralith",
+  "pack_description.eclipticseasons_bundles.es_x_terralith": "Adds color and climate fix for Terralith."
 }

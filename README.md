@@ -3,7 +3,7 @@
 ![](icon.png)
 
 A collection of DataPacks and resource packs providing cross-mod compatibility
-for [Ecliptic Seasons](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons).
+for [Ecliptic Seasons](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons)(>0.12.7).
 
 ### Summary
 
@@ -20,6 +20,7 @@ seasonal landscapes.
 | **No Man's Land**              | Seasonal rules for crops and animals; autumn biome adjustments.          |
 | **Oh The Biomes We've Gone**   | Removes seasonal limits; adds humidity rules and snow-covered plants.    |
 | **Regions Unexplored**         | Seasonal and humidity rules; snow-covered plants in themed biomes.       |
+| **Terralith**                  | Color and climate fix for themed biomes.                                 |
 | **DataPack - Abnormal**        | Seasonal and humidity support for abnormal crops.                        |
 | **DataPack - Bountiful Fares** | Seasonal and humidity support for Bountiful Fares crops.                 |
 | **DataPack - Concoction**      | Seasonal and humidity support for Concoction crops.                      |

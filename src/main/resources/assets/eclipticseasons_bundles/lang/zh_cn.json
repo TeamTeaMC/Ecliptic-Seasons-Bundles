@@ -24,5 +24,7 @@
   "pack.eclipticseasons_bundles.es_dp_x_forestry": "节气数据包 - 林业作物",
   "pack_description.eclipticseasons_bundles.es_dp_x_forestry": "为林业作物增加季节和湿度兼容。",
   "pack.eclipticseasons_bundles.es_dp_x_vital_herbs": "节气数据包 - 重要草药",
-  "pack_description.eclipticseasons_bundles.es_dp_x_vital_herbs": "为重要草药增加季节和湿度兼容。"
+  "pack_description.eclipticseasons_bundles.es_dp_x_vital_herbs": "为重要草药增加季节和湿度兼容。",
+  "pack.eclipticseasons_bundles.es_x_terralith": "节气数据包 - Terralith",
+  "pack_description.eclipticseasons_bundles.es_x_terralith": "为 Terralith 添加群系颜色与气候修正。"
 }
