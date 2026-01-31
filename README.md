@@ -31,7 +31,7 @@ seasonal landscapes.
 
 ### Other Information
 
-GitHub: [https://github.com/TeamTeaMC/Ecliptic-Seasons-Bundles](https://github.com/joe-vettek/Ecliptic-Seasons-Bundles)  
+GitHub: [https://github.com/TeamTeaMC/Ecliptic-Seasons-Bundles](https://github.com/TeamTeaMC/Ecliptic-Seasons-Bundles)  
 Discord: [@RCxe9qt4ka](https://discord.com/invite/RCxe9qt4ka)
 
 [![dc](https://i.imgur.com/0Prkr13.png)](https://discord.com/invite/RCxe9qt4ka)
