@@ -1,34 +1,37 @@
-Ecliptic Seasons: MultiMod Patch
+# Ecliptic Seasons: Bundles
 
+![](icon.png)
 
-A collection of patches for mod compatibility with Ecliptic Seasons.
+A collection of DataPacks and resource packs providing cross-mod compatibility
+for [Ecliptic Seasons](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons).
 
-Description
-This patch mod adds compatibility between Ecliptic Seasons and various other popular Minecraft mods. It introduces seasonal logic and environmental behaviors (such as crop growth changes, snow/rain effects, or temperature interactions) to mods that do not natively support seasonal changes.
+### Summary
 
-The goal is to provide a seamless gameplay experience across mods that may otherwise ignore seasonal mechanics introduced by Ecliptic Seasons.
+Provides cross-version DataPack and resource pack support for Ecliptic Seasons and other mods, adjusting crops and
+seasonal landscapes.
 
-Following is supported list，✔️ indicates that mixins or patch is provided, ❌️ indicates that none is provided, and ❓︎indicates incomplete support.
+### Included Packs
 
-Mod	1.21.1	1.20.1	Patched Content
-In Control	✔️	✔️	Overrides season and weather (requires BlockPos support), and adds surface biome definitions and valid solar term checks.
-Pretty Rain	✔️	✔️	Correctly applies biome acquisition and level-dependent precipitation; desert rain is modified into sandstorms.
-Presence Footsteps	✔️	✔️	Stepping on snowy blocks now uses the snow layer sound effect instead.
-Snowy Spirit	✔️	✔️	Enables skiing on snowy blocks during wintertime.
-JourneyMap	✔️	✔️	Displays snow-covered blocks properly on the map.
-Cold Sweat	✔️	✔️	Adds seasonal temperature variation and fixes rainfall calculation.
-Dynamic Trees	✔️	✔️	Adds a seasonal provider; tree growth now follows seasonal growth cycles.
-Haunted Harvest	✔️	✔️	Enables Halloween and pumpkin zombie seasonal events.
-Fey Wild	➖	✔️	Adds four new seasonal quests to obtain the essence item.
-Minecolonies	✔️	✔️	Dynamically adjusts citizens' sleep time according to the season.
-Ambient Sounds	❌️	✔️	Adapts biome temperature, thunder, and snowfall calculations.
-Touhou Little Maid	✔️	✔️	Allows the maid to sweep snowy blocks.
-Diagonal Blocks	✔️	✔️	Limited snowy block definition support for diagonal walls and fences.
-Simple Clouds	❌️	❓︎	Adapts biome detection and precipitation data.
-More and more is on the way.
+| Pack Name                      | Description                                                              |
+|--------------------------------|--------------------------------------------------------------------------|
+| **Biomes O' Plenty**           | Adjusts crops and plants; adds humidity rules and snow-covered variants. |
+| **Let's Do Series**            | Adds seasonal rules for crops, animals, and landscapes.                  |
+| **Nature's Spirit**            | Seasonal and humidity rules; snow-covered plant variants.                |
+| **No Man's Land**              | Seasonal rules for crops and animals; autumn biome adjustments.          |
+| **Oh The Biomes We've Gone**   | Removes seasonal limits; adds humidity rules and snow-covered plants.    |
+| **Regions Unexplored**         | Seasonal and humidity rules; snow-covered plants in themed biomes.       |
+| **DataPack - Abnormal**        | Seasonal and humidity support for abnormal crops.                        |
+| **DataPack - Bountiful Fares** | Seasonal and humidity support for Bountiful Fares crops.                 |
+| **DataPack - Concoction**      | Seasonal and humidity support for Concoction crops.                      |
+| **DataPack - Customized**      | Seasonal and humidity support for customized crops.                      |
+| **DataPack - Forestry**        | Seasonal and humidity support for forestry crops.                        |
+| **DataPack - Vital Herbs**     | Seasonal and humidity support for vital herbs.                           |
 
-Other Information
-For issue reporting, please visit the mod's GitHub repository: https://github.com/joe-vettek/Ecliptic-Seasons-MultiMod-Patch
+*More packs will be added over time.*
 
-If you'd like to chat, feel free to join our Discord channel @RCxe9qt4ka.
+### Other Information
 
+GitHub: [https://github.com/TeamTeaMC/Ecliptic-Seasons-Bundles](https://github.com/joe-vettek/Ecliptic-Seasons-Bundles)  
+Discord: [@RCxe9qt4ka](https://discord.com/invite/RCxe9qt4ka)
+
+[![dc](https://i.imgur.com/0Prkr13.png)](https://discord.com/invite/RCxe9qt4ka)
