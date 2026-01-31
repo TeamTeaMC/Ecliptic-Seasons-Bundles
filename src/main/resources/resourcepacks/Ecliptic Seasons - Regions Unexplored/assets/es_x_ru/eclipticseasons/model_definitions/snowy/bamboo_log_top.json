@@ -1,0 +1,29 @@
+{
+  "replace": true,
+  "variants": {
+    "axis=x,leaves=false": {
+      "model": "es_x_ru:block/snowy/bamboo_log_top",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,leaves=true": {
+      "model": "es_x_ru:block/snowy/bamboo_log_leaves_top",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,leaves=false": {
+      "model": "es_x_ru:block/snowy/bamboo_log_top"
+    },
+    "axis=y,leaves=true": {
+      "model": "es_x_ru:block/snowy/bamboo_log_leaves_top"
+    },
+    "axis=z,leaves=false": {
+      "model": "es_x_ru:block/snowy/bamboo_log_top",
+      "x": 90
+    },
+    "axis=z,leaves=true": {
+      "model": "es_x_ru:block/snowy/bamboo_log_leaves_top",
+      "x": 90
+    }
+  }
+}

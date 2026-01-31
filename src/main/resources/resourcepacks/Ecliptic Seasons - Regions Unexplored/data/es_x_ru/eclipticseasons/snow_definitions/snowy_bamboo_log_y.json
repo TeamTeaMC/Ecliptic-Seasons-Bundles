@@ -1,0 +1,15 @@
+{
+  "blocks": "regions_unexplored:bamboo_log",
+  "mid": "es_x_ru:snowy/bamboo_log_top",
+  "mid2": "es_x_ru:snowy/bamboo_log",
+  "flag": 1101,
+  "snow_passable": true,
+  "properties": [
+    {
+      "name": "axis",
+      "matcher": {
+        "value": "y"
+      }
+    }
+  ]
+}

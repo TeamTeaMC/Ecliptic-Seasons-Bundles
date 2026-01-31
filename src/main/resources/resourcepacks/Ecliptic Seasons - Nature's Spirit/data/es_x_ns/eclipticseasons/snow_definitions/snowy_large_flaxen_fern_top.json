@@ -1,0 +1,14 @@
+{
+  "blocks": "natures_spirit:large_flaxen_fern",
+  "offset": 2,
+  "mid": "es_x_ns:snowy/large_flaxen_fern_top",
+  "flag": 1001,
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "upper"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "blocks": "biomesoplenty:barley",
+  "offset": 2,
+  "mid": "es_x_bop:snowy/barley_top",
+  "flag": 1001,
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "upper"
+      }
+    }
+  ]
+}

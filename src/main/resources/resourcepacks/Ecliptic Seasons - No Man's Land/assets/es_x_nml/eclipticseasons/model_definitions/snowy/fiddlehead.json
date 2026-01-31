@@ -1,0 +1,13 @@
+{
+  "replace": true,
+  "variants": {
+    "": [
+      {
+        "model": "es_x_nml:block/snowy/fiddlehead_0"
+      },
+      {
+        "model": "es_x_nml:block/snowy/fiddlehead_1"
+      }
+    ]
+  }
+}

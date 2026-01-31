@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_ns:block/snowy/tall_frigid_grass_top"
+    }
+  }
+}

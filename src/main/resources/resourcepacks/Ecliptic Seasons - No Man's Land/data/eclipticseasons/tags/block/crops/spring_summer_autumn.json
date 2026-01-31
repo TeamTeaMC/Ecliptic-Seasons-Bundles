@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "nomansland:apple_fruit_leaves",
+      "required": false
+    },
+    {
+      "id": "nomansland:apple",
+      "required": false
+    },
+    {
+      "id": "nomansland:pear_fruit_leaves",
+      "required": false
+    },
+    {
+      "id": "nomansland:pear",
+      "required": false
+    }
+  ]
+}

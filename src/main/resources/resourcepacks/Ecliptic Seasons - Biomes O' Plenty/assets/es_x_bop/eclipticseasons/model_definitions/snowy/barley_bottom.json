@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "es_x_bop:block/snowy/barley_bottom"
+      },
+      {
+        "model": "es_x_bop:block/snowy/barley_bottom_alt"
+      }
+    ]
+  }
+}

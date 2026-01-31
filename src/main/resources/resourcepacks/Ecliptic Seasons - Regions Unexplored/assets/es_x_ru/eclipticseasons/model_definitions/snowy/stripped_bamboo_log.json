@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "es_x_ru:block/snowy/stripped_bamboo_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "es_x_ru:block/snowy/stripped_bamboo_log"
+    },
+    "axis=z": {
+      "model": "es_x_ru:block/snowy/stripped_bamboo_log",
+      "x": 90
+    }
+  }
+}

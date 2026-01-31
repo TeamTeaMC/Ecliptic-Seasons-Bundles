@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_bop:block/snowy/bush"
+    }
+  }
+}

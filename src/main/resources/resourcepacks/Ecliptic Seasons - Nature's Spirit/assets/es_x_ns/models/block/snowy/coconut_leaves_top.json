@@ -1,0 +1,9 @@
+{
+  "parent": "natures_spirit:block/coconut_leaves",
+  "textures": {
+    "0": "es_x_ns:block/snowy/top/coconut_leaves",
+    "1": "es_x_ns:block/snowy/coconut_leaves_tip",
+    "2": "es_x_ns:block/snowy/top/coconut_leaves_top",
+    "3": "es_x_ns:block/snowy/top/coconut_leaves_ends"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "blocks": "regions_unexplored:steppe_tall_grass",
+  "offset": 1,
+  "mid": "es_x_ru:snowy/steppe_tall_grass_bottom",
+  "flag": 1001,
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "lower"
+      }
+    }
+  ]
+}

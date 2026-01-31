@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "biomesoplenty:orange_maple_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:red_maple_leaves",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:yellow_maple_leaves",
+      "required": false
+    }
+  ]
+}

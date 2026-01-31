@@ -1,0 +1,13 @@
+{
+  "replace": true,
+  "variants": {
+    "": [
+      {
+        "model": "es_x_ns:block/snowy/large_flaxen_fern_top"
+      },
+      {
+        "model": "es_x_ns:block/snowy/large_flaxen_fern_top2"
+      }
+    ]
+  }
+}

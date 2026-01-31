@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_ns:block/snowy/large_lush_fern_top"
+    }
+  }
+}

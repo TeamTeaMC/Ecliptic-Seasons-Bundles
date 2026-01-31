@@ -1,0 +1,33 @@
+{
+  "biomes": "regions_unexplored:silver_birch_forest",
+  "grass_colors": {
+    "default": {
+      "color_string": "#FFD800",
+      "mix": 0.8
+    }
+  },
+  "foliage_colors": {
+    "seasons": {
+      "spring": {
+        "mix": 0.8,
+        "color_string": "#FFA64D"
+      },
+      "summer": {
+        "mix": 0.8,
+        "color_string": "#FFD24D"
+      },
+      "autumn": {
+        "mix": 0.8,
+        "color_string": "#FF6600"
+      },
+      "winter": {
+        "mix": 0.8,
+        "color_string": "#996633"
+      },
+      "none": {
+        "mix": 0.8,
+        "color_string": "#FFD800"
+      }
+    }
+  }
+}

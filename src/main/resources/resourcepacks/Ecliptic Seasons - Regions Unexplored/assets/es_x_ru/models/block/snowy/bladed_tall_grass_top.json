@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "es_x_ru:block/snowy/bladed_tall_grass_top"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_ns:block/snowy/tall_oat_grass_bottom"
+    }
+  }
+}

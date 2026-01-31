@@ -1,0 +1,9 @@
+{
+  "parent": "regions_unexplored:block/bamboo_log_withleaf",
+  "textures": {
+    "all": "eclipticseasons:block/snowy/bamboo_large_leaves",
+    "particle": "eclipticseasons:block/snowy/bamboo_large_leaves",
+    "0": "es_x_ru:block/snowy/bamboo_log_top",
+    "1": "eclipticseasons:block/snowy/bamboo_large_leaves"
+  }
+}

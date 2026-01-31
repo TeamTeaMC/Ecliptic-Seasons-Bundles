@@ -1,0 +1,14 @@
+{
+  "blocks": "regions_unexplored:apple_oak_leaves",
+  "mid": "es_x_ru:snowy/apple_oak_leaves_stage2_top",
+  "mid2": "es_x_ru:snowy/apple_oak_leaves_stage2_bottom",
+  "flag": 1101,
+  "properties": [
+    {
+      "name": "age",
+      "matcher": {
+        "value": "4"
+      }
+    }
+  ]
+}

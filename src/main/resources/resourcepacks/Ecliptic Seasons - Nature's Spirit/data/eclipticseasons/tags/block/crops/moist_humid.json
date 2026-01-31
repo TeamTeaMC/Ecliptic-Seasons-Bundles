@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "natures_spirit:shiitake_mushroom",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:gray_polypore",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:lotus_stem",
+      "required": false
+    }
+  ]
+}

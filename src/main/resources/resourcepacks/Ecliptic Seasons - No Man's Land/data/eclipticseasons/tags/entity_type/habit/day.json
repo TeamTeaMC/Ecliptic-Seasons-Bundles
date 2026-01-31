@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "nomansland:deer",
+      "required": false
+    },
+    {
+      "id": "nomansland:goose",
+      "required": false
+    }
+  ]
+}

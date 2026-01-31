@@ -1,0 +1,14 @@
+{
+  "blocks": "biomesoplenty:sea_oats",
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "lower"
+      }
+    }
+  ],
+  "offset": 1,
+  "mid": "es_x_bop:snowy/sea_oats_bottom",
+  "flag": 1001
+}

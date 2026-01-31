@@ -1,0 +1,196 @@
+{
+  "mappings": {
+    "beginning_of_spring": [
+      {
+        "beginning_of_spring": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "rain_water": [
+      {
+        "rain_water": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "insects_awakening": [
+      {
+        "insects_awakening": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "spring_equinox": [
+      {
+        "spring_equinox": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "fresh_green": [
+      {
+        "fresh_green": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "grain_rain": [
+      {
+        "grain_rain": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "beginning_of_summer": [
+      {
+        "beginning_of_summer": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "lesser_fullness": [
+      {
+        "lesser_fullness": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "grain_in_ear": [
+      {
+        "grain_in_ear": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "summer_solstice": [
+      {
+        "summer_solstice": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "lesser_heat": [
+      {
+        "lesser_heat": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "greater_heat": [
+      {
+        "greater_heat": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "beginning_of_autumn": [
+      {
+        "beginning_of_autumn": 1.0
+      }
+    ],
+    "end_of_heat": [
+      {
+        "end_of_heat": 1.0
+      }
+    ],
+    "white_dew": [
+      {
+        "white_dew": 1.0
+      }
+    ],
+    "autumnal_equinox": [
+      {
+        "autumnal_equinox": 1.0
+      }
+    ],
+    "cold_dew": [
+      {
+        "cold_dew": 1.0
+      }
+    ],
+    "first_frost": [
+      {
+        "first_frost": 1.0
+      }
+    ],
+    "beginning_of_winter": [
+      {
+        "beginning_of_winter": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "light_snow": [
+      {
+        "light_snow": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "heavy_snow": [
+      {
+        "heavy_snow": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "winter_solstice": [
+      {
+        "winter_solstice": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "lesser_cold": [
+      {
+        "lesser_cold": 1.0
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ],
+    "greater_cold": [
+      {
+        "greater_cold": 1
+      },
+      {
+        "autumnal_equinox": 0.1
+      }
+    ]
+  },
+  "seasonal_signal_durations": [
+    {
+      "spring": 6
+    },
+    {
+      "summer": 6
+    },
+    {
+      "autumn": 6
+    },
+    {
+      "winter": 6
+    }
+  ],
+  "biomes": [
+    "regions_unexplored:silver_birch_forest",
+    "regions_unexplored:autumnal_maple_forest"
+  ]
+}

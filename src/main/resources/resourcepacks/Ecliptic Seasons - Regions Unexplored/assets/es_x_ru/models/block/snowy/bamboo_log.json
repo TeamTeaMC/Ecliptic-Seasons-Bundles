@@ -1,0 +1,8 @@
+{
+  "parent": "regions_unexplored:block/bamboo_log_noleaf",
+  "textures": {
+    "all": "es_x_ru:block/snowy/bamboo_log",
+    "particle": "es_x_ru:block/snowy/bamboo_log",
+    "0": "es_x_ru:block/snowy/bamboo_log"
+  }
+}

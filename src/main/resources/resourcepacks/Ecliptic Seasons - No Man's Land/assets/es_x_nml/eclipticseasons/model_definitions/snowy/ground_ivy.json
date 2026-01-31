@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "variants": {
+    "": [
+      {
+        "model": "es_x_nml:block/snowy/ground_ivy"
+      },
+      {
+        "model": "es_x_nml:block/snowy/ground_ivy",
+        "y": 90
+      },
+      {
+        "model": "es_x_nml:block/snowy/ground_ivy",
+        "y": 180
+      },
+      {
+        "model": "es_x_nml:block/snowy/ground_ivy",
+        "y": 270
+      }
+    ]
+  }
+}

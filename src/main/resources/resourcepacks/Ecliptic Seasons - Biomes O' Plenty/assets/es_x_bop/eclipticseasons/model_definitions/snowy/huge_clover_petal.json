@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "variants": {
+    "facing=east": { "model": "es_x_bop:block/snowy/huge_clover_petal", "y": 90 },
+    "facing=south": { "model": "es_x_bop:block/snowy/huge_clover_petal", "y": 180 },
+    "facing=west": { "model": "es_x_bop:block/snowy/huge_clover_petal", "y": 270 },
+    "facing=north": { "model": "es_x_bop:block/snowy/huge_clover_petal", "y": 0 }
+  }
+}

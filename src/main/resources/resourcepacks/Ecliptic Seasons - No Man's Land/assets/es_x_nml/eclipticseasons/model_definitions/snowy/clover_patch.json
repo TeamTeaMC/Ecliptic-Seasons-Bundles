@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "variants": {
+    "": [
+      {
+        "model": "es_x_nml:block/snowy/clover_patch"
+      },
+      {
+        "model": "es_x_nml:block/snowy/clover_patch",
+        "y": 90
+      },
+      {
+        "model": "es_x_nml:block/snowy/clover_patch",
+        "y": 180
+      },
+      {
+        "model": "es_x_nml:block/snowy/clover_patch",
+        "y": 270
+      }
+    ]
+  }
+}

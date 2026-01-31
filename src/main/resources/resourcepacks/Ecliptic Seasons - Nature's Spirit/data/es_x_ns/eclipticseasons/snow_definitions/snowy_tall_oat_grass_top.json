@@ -1,0 +1,14 @@
+{
+  "blocks": "natures_spirit:tall_oat_grass",
+  "offset": 2,
+  "mid": "es_x_ns:snowy/tall_oat_grass_top",
+  "flag": 1001,
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "upper"
+      }
+    }
+  ]
+}

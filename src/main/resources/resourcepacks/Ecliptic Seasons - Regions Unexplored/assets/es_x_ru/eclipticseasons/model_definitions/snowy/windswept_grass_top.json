@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_ru:block/snowy/windswept_grass_top"
+    }
+  }
+}

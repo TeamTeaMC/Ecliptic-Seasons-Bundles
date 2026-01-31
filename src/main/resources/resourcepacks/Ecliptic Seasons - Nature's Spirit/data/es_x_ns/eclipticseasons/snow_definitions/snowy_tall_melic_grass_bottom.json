@@ -1,0 +1,14 @@
+{
+  "blocks": "natures_spirit:tall_melic_grass",
+  "offset": 1,
+  "mid": "es_x_ns:snowy/tall_melic_grass_bottom",
+  "flag": 1001,
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "lower"
+      }
+    }
+  ]
+}
