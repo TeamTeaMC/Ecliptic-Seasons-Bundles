@@ -7,6 +7,10 @@
     {
       "modid": "bloomingnature",
       "type": "neoforge:mod_loaded"
+    },
+    {
+      "item": "bloomingnature:beach_grass",
+      "type": "neoforge:item_exists"
     }
   ],
   "forge:conditions": [
