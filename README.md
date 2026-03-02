@@ -27,6 +27,7 @@ seasonal landscapes.
 | **DataPack - Customized**      | Seasonal and humidity support for customized crops.                      |
 | **DataPack - Forestry**        | Seasonal and humidity support for forestry crops.                        |
 | **DataPack - Vital Herbs**     | Seasonal and humidity support for vital herbs.                           |
+| **DataPack - FeyWild**         | Adds some task for FeyWild to acquire greenhouse core.                   |
 
 *More packs will be added over time.*
 

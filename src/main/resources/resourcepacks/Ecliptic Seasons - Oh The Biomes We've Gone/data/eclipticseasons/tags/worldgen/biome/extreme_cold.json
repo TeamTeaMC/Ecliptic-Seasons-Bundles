@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "values": [
+        {
+          "id": "biomeswevegone:eroded_borealis",
+          "required": false
+        },
+        {
+          "id": "biomeswevegone:howling_peaks",
+          "required": false
+        },
+        {
+          "id": "biomeswevegone:shattered_glacier",
+          "required": false
+        }
+      ]
+    }
+  ]
+}

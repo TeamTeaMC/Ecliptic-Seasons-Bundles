@@ -2,5 +2,11 @@
   "blocks": "biomesoplenty:yellow_maple_leaf_pile",
   "offset": 1,
   "mid": "es_x_bop:snowy/yellow_maple_leaf_pile",
-  "flag": 1001
+  "flag": 1001,
+  "forge:conditions": [
+    {
+      "item": "biomesoplenty:yellow_maple_leaf_pile",
+      "type": "forge:item_exists"
+    }
+  ]
 }
