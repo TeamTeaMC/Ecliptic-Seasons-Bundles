@@ -1,0 +1,128 @@
+{
+  "biomes": "minecraft:plains",
+  "changes": {
+    "seasons": {
+      "spring": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:orchard_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.18,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:flowering_orchard_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "summer": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:flowering_orchard_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:orchard_leaves"
+            },
+            "copy_state": true
+          }
+        },
+        {
+          "target": {
+            "blocks": "biomeswevegone:ripe_orchard_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:orchard_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "autumn": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:orchard_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.10,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:ripe_orchard_leaves"
+            },
+            "copy_state": true
+          }
+        },
+        {
+          "target": {
+            "blocks": "biomeswevegone:ripe_orchard_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.35,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:apple_fruit"
+            },
+            "replace": false,
+            "offset": [0, -1, 0]
+          }
+        }
+      ],
+      "winter": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:flowering_orchard_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:orchard_leaves"
+            },
+            "copy_state": true
+          }
+        },
+        {
+          "target": {
+            "blocks": "biomeswevegone:ripe_orchard_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:orchard_leaves"
+            },
+            "copy_state": true
+          }
+        },
+        {
+          "target": {
+            "blocks": "biomeswevegone:apple_fruit"
+          },
+          "place": {
+            "loot": "biomeswevegone:blocks/apple_fruit"
+          }
+        }
+      ]
+    }
+  }
+}
