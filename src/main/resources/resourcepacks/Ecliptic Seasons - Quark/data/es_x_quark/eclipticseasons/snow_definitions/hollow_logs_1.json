@@ -1,0 +1,6 @@
+{
+  "blocks": "#quark:hollow_logs",
+  "flag": 1000,
+  "snow_passable": false,
+  "mid": "es_x_quark:snowy/hollow_log"
+}

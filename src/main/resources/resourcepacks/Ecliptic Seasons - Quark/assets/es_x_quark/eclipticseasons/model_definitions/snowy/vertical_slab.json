@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "type=north": { "model": "es_x_quark:block/snowy/vertical_slab", "y": 0, "uvlock": true },
+        "type=south": { "model": "es_x_quark:block/snowy/vertical_slab", "y": 180, "uvlock": true },
+        "type=east": { "model": "es_x_quark:block/snowy/vertical_slab", "y": 90, "uvlock": true },
+        "type=west": { "model": "es_x_quark:block/snowy/vertical_slab", "y": 270, "uvlock": true },
+        "type=double": { "model": "block/air" }
+    }
+}

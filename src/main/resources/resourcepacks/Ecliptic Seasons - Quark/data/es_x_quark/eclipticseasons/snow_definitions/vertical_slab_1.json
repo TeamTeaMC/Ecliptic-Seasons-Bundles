@@ -1,0 +1,6 @@
+{
+  "blocks": "#quark:vertical_slabs",
+  "mid": "es_x_quark:snowy/vertical_slab",
+  "flag": 1000,
+  "snow_passable": true
+}

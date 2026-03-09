@@ -1,0 +1,14 @@
+{
+  "blocks": "#quark:hollow_logs",
+  "flag": 1000,
+  "snow_passable": true,
+  "mid": "es_x_quark:snowy/hollow_log",
+  "properties": [
+    {
+      "name": "axis",
+      "matcher": {
+        "value": "y"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "es_x_quark:block/snowy/hollow_log" },
+        "axis=z":   { "model": "es_x_quark:block/snowy/hollow_log_horizontal", "x": 90 },
+        "axis=x":   { "model": "es_x_quark:block/snowy/hollow_log_horizontal", "x": 90, "y": 90 }
+    }
+}

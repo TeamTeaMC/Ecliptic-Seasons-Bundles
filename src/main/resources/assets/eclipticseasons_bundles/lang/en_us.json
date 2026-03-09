@@ -11,8 +11,8 @@
   "pack_description.eclipticseasons_bundles.es_x_nml": "Adds seasonal and humidity rules for pears, apples, and certain animals.\nSnow-covered models for grass, clovers, and pebbles, with autumnal biome color adjustments.",
   "pack.eclipticseasons_bundles.es_x_bwg": "Ecliptic Seasons - Oh The Biomes We've Gone",
   "pack_description.eclipticseasons_bundles.es_x_bwg": "Removes seasonal limits for saplings and mushrooms.\nAdds humidity rules, snow-covered grass variants, and fixes biome tags for natural seasonal behavior.",
-  "pack.eclipticseasons_bundles.es_x_rw": "Ecliptic Seasons - Regions Unexplored",
-  "pack_description.eclipticseasons_bundles.es_x_rw": "Adds seasonal and humidity rules for crops.\nSnow-covered models for grass, bamboo, and leaves, with autumnal color adjustments for themed biomes.",
+  "pack.eclipticseasons_bundles.es_x_ru": "Ecliptic Seasons - Regions Unexplored",
+  "pack_description.eclipticseasons_bundles.es_x_ru": "Adds seasonal and humidity rules for crops.\nSnow-covered models for grass, bamboo, and leaves, with autumnal color adjustments for themed biomes.",
   "pack.eclipticseasons_bundles.es_dp_x_abnormals": "Ecliptic Seasons DataPack - Abnormal",
   "pack_description.eclipticseasons_bundles.es_dp_x_abnormals": "Adds seasonal and humidity compatibility for abnormal crops.",
   "pack.eclipticseasons_bundles.es_dp_x_bountifulfares": "Ecliptic Seasons DataPack - Bountiful Fares",
@@ -28,5 +28,7 @@
   "pack.eclipticseasons_bundles.es_x_terralith": "Ecliptic Seasons DataPack - Terralith",
   "pack_description.eclipticseasons_bundles.es_x_terralith": "Adds color and climate fix for Terralith.",
   "pack.eclipticseasons_bundles.es_dp_x_feywild": "Ecliptic Seasons DataPack - FeyWild",
-  "pack_description.eclipticseasons_bundles.es_dp_x_feywild": "Adds some task for FeyWild to acquire greenhouse core."
+  "pack_description.eclipticseasons_bundles.es_dp_x_feywild": "Adds some task for FeyWild to acquire greenhouse core.",
+  "pack.eclipticseasons_bundles.es_x_quark": "Ecliptic Seasons - Quark",
+  "pack_description.eclipticseasons_bundles.es_x_quark": "Snow-covered models for vertical slabs."
 }

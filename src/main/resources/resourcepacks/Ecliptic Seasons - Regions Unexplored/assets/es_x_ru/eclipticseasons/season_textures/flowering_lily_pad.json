@@ -1,0 +1,38 @@
+{
+  "target": [
+    "regions_unexplored:block/flowering_lily_pad"
+  ],
+  "slices": [
+    {
+      "textures": [
+        {
+          "2": "regions_unexplored:block/flowering_lily_pad_flower_closed"
+        }
+      ],
+      "start_season": "autumn",
+      "end_season": "winter"
+    },
+    {
+      "transition_textures": [
+        {
+          "2": "regions_unexplored:block/flowering_lily_pad_flower"
+        },
+        {
+          "2": "regions_unexplored:block/flowering_lily_pad_flower_closed"
+        }
+      ],
+      "solar_term": "beginning_of_autumn"
+    },
+    {
+      "transition_textures": [
+        {
+          "2": "regions_unexplored:block/flowering_lily_pad_flower_closed"
+        },
+        {
+          "2": "regions_unexplored:block/flowering_lily_pad_flower"
+        }
+      ],
+      "solar_term": "beginning_of_spring"
+    }
+  ]
+}
