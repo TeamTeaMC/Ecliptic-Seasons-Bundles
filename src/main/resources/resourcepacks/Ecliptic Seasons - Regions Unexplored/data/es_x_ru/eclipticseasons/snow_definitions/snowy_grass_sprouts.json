@@ -1,0 +1,18 @@
+{
+  "blocks": "regions_unexplored:grass_sprouts",
+  "offset": 1,
+  "mid": "es_x_ru:snowy/grass_sprouts",
+  "flag": 1001,
+  "neoforge:conditions": [
+    {
+      "item": "regions_unexplored:grass_sprouts",
+      "type": "neoforge:item_exists"
+    }
+  ],
+  "forge:conditions": [
+    {
+      "item": "regions_unexplored:grass_sprouts",
+      "type": "forge:item_exists"
+    }
+  ]
+}
