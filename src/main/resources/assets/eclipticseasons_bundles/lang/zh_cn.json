@@ -32,5 +32,7 @@
   "pack.eclipticseasons_bundles.es_x_quark": "节气 x 夸克",
   "pack_description.eclipticseasons_bundles.es_x_quark": "为竖半砖方块添加覆雪模型。",
   "pack.eclipticseasons_bundles.es_x_bwg_extra": "节气 x 我们走过的群系 （季节附加）",
-  "pack_description.eclipticseasons_bundles.es_x_bwg_extra": "为一些方块增加季节变化或者纹理效果。"
+  "pack_description.eclipticseasons_bundles.es_x_bwg_extra": "为一些方块增加季节变化或者纹理效果。",
+  "pack.eclipticseasons_bundles.es_dp_x_bountifulfares_extra": "节气数据包 - 丰饶食记 （季节附加）",
+  "pack_description.eclipticseasons_bundles.es_dp_x_bountifulfares_extra": "为一些方块增加季节变化。"
 }

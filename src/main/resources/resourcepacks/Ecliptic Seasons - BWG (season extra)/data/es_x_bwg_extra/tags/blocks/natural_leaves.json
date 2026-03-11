@@ -1,0 +1,16 @@
+{
+  "values": [
+    { "id": "biomeswevegone:orchard_leaves", "required": false },
+    { "id": "biomeswevegone:ripe_orchard_leaves", "required": false },
+    { "id": "biomeswevegone:flowering_orchard_leaves", "required": false },
+    { "id": "biomeswevegone:skyris_leaves", "required": false },
+    { "id": "biomeswevegone:green_apple_skyris_leaves", "required": false },
+    { "id": "biomeswevegone:flowering_skyris_leaves", "required": false },
+    { "id": "biomeswevegone:baobab_leaves", "required": false },
+    { "id": "biomeswevegone:ripe_baobab_leaves", "required": false },
+    { "id": "biomeswevegone:flowering_baobab_leaves", "required": false },
+    { "id": "biomeswevegone:yucca_leaves", "required": false },
+    { "id": "biomeswevegone:ripe_yucca_leaves", "required": false },
+    { "id": "biomeswevegone:flowering_yucca_leaves", "required": false }
+  ]
+}

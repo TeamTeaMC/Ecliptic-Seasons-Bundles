@@ -1,0 +1,72 @@
+{
+  "biomes": "minecraft:plains",
+  "changes": {
+    "default": [
+      {
+        "target": {
+          "blocks": "bountifulfares:lemon_leaves",
+          "state": {
+            "persistent": "false"
+          }
+        },
+        "chance": 0.0006,
+        "place": {
+          "block": {
+            "Name": "bountifulfares:flowering_lemon_leaves"
+          },
+          "copy_state": true
+        }
+      },
+      {
+        "target": {
+          "blocks": "bountifulfares:flowering_lemon_leaves",
+          "state": {
+            "persistent": "false"
+          }
+        },
+        "chance": 0.0006,
+        "place": {
+          "block": {
+            "Name": "bountifulfares:lemon_leaves"
+          },
+          "copy_state": true
+        }
+      },
+      {
+        "target": {
+          "blocks": "bountifulfares:flowering_lemon_leaves",
+          "state": {
+            "persistent": "false"
+          }
+        },
+        "chance": 0.0002,
+        "place": {
+          "block": {
+            "Name": "bountifulfares:hanging_lemon"
+          },
+          "conditions": [
+            {
+              "type": "empty_above",
+              "above": false
+            }
+          ],
+          "replace": false,
+          "offset": [
+            0,
+            -1,
+            0
+          ]
+        }
+      },
+      {
+        "target": {
+          "blocks": "bountifulfares:hanging_lemon"
+        },
+        "chance": 0.0002,
+        "place": {
+          "loot": "bountifulfares:blocks/hanging_lemon"
+        }
+      }
+    ]
+  }
+}

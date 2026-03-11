@@ -1,0 +1,45 @@
+{
+  "biomes": "minecraft:plains",
+  "changes": {
+    "seasons": {
+      "summer": [
+        {
+          "target": {
+            "blocks": "bountifulfares:walnut_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.18,
+          "place": {
+            "block": {
+              "Name": "bountifulfares:hanging_walnuts"
+            },
+            "conditions": [
+              {
+                "type": "empty_above",
+                "above": false
+              }
+            ],
+            "replace": false,
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
+        }
+      ],
+      "winter": [
+        {
+          "target": {
+            "blocks": "bountifulfares:hanging_walnuts"
+          },
+          "place": {
+          }
+        }
+      ]
+    }
+  }
+}

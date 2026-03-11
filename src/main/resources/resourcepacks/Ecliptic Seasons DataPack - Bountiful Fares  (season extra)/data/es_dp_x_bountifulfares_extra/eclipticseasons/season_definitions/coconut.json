@@ -1,0 +1,38 @@
+{
+  "biomes": "minecraft:plains",
+  "changes": {
+    "seasons": {
+      "summer": [
+        {
+          "target": {
+            "blocks": "bountifulfares:palm_frond",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "bountifulfares:coconut"
+            },
+            "replace": false,
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
+        }
+      ],
+      "winter": [
+        {
+          "target": {
+            "blocks": "bountifulfares:coconut"
+          },
+          "place": {
+            "loot": "es_dp_x_bountifulfares_extra:blocks/coconut"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,30 @@
-**Update Log**
+## **Update Log**
 
-**New Optional Resource Pack: *Ecliptic Seasons – BWG (Season Extra)***
+### **New Optional DataPack: *Ecliptic Seasons – Bountiful Fares (Season Extra)***
+
+This update introduces a new optional seasonal add-on for **Bountiful Fares** within **Ecliptic Seasons**, expanding
+seasonal interactions for several fruit trees and plants from the mod.
+
+The pack adds a set of seasonal definitions and behavior rules that allow Bountiful Fares vegetation to respond more
+naturally to the seasonal system.
+
+Main additions include:
+
+* New **season definitions** for multiple Bountiful Fares fruit trees, including:
+
+    * Apple
+    * Golden Apple Leaves
+    * Hoary Apple
+    * Coconut
+    * Lemon
+    * Other orchard-style trees
+
+* Seasonal **flowering and fruit behavior**, enabling trees to bloom, produce hanging fruit, and transition between
+  seasonal states.
+
+----
+
+### **New Optional Resource Pack: *Ecliptic Seasons – BWG (Season Extra)***
 
 This update adds a new optional add-on resource pack that expands seasonal integration for **Oh The Biomes We've Gone**
 within **Ecliptic Seasons**.
@@ -26,5 +50,3 @@ Main additions include:
 
 * Additional **seasonal textures** for selected tree species (such as Aspen and Zelkova variants).
 
-This pack functions as an **extra seasonal expansion**, providing more detailed seasonal variation for BWG vegetation
-beyond the base compatibility layer.

@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "id": "bountifulfares:wall_palm_frond",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:walnut_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:hoary_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:apple_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:plum_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:lemon_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:orange_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:flowering_apple_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:flowering_plum_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:flowering_lemon_leaves",
+      "required": false
+    },
+    {
+      "id": "bountifulfares:flowering_orange_leaves",
+      "required": false
+    }
+  ]
+}

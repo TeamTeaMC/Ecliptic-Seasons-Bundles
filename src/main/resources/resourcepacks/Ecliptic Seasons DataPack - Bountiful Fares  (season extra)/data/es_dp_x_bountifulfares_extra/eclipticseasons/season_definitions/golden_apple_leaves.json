@@ -1,0 +1,42 @@
+{
+  "biomes": "minecraft:plains",
+  "changes": {
+    "seasons": {
+      "spring": [
+        {
+          "target": {
+            "blocks": "bountifulfares:golden_apple_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.16,
+          "place": {
+            "block": {
+              "Name": "bountifulfares:flowering_golden_apple_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "winter": [
+        {
+          "target": {
+            "blocks": "bountifulfares:flowering_golden_apple_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "chance": 0.05,
+          "place": {
+            "block": {
+              "Name": "bountifulfares:golden_apple_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ]
+    }
+  }
+}

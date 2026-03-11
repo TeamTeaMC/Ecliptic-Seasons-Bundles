@@ -1,0 +1,46 @@
+{
+  "biomes": "minecraft:plains",
+  "changes": {
+    "seasons": {
+      "autumn": [
+        {
+          "target": {
+            "blocks": "bountifulfares:hoary_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.28,
+          "place": {
+            "block": {
+              "Name": "bountifulfares:hanging_hoary_apple"
+            },
+            "conditions": [
+              {
+                "type": "empty_above",
+                "above": false
+              }
+            ],
+            "replace": false,
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
+        }
+      ],
+      "summer": [
+        {
+          "target": {
+            "blocks": "bountifulfares:hanging_hoary_apple"
+          },
+          "place": {
+            "loot": "bountifulfares:blocks/hanging_hoary_apple"
+          }
+        }
+      ]
+    }
+  }
+}
