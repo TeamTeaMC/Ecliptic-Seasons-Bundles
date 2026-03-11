@@ -1,0 +1,101 @@
+{
+  "changes": {
+    "seasons": {
+      "summer": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:yucca_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.18,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:flowering_yucca_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "autumn": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:flowering_yucca_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.80,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:ripe_yucca_leaves"
+            },
+            "copy_state": true
+          }
+        },
+        {
+          "target": {
+            "blocks": "biomeswevegone:ripe_yucca_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.6,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:yucca_fruit"
+            },
+            "replace": false,
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          }
+        }
+      ],
+      "winter": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:flowering_yucca_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:yucca_leaves"
+            },
+            "copy_state": true
+          }
+        },
+        {
+          "target": {
+            "blocks": "biomeswevegone:ripe_yucca_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:yucca_leaves"
+            },
+            "copy_state": true
+          }
+        },
+        {
+          "target": {
+            "blocks": "biomeswevegone:yucca_fruit"
+          },
+          "place": {
+            "loot": "biomeswevegone:blocks/yucca_fruit"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "target": [
+    "biomeswevegone:block/brown_zelkova_leaves"
+  ],
+  "slices": [
+    {
+      "textures": [
+        {
+          "all": "es_x_bwg_extra:block/spring_brown_zelkova_leaves"
+        }
+      ],
+      "season": "spring"
+    },
+    {
+      "textures": [
+        {
+          "all": "es_x_bwg_extra:block/summer_brown_zelkova_leaves"
+        }
+      ],
+      "season": "summer"
+    },
+    {
+      "textures": [
+        {
+          "all": "biomeswevegone:block/brown_zelkova_leaves"
+        }
+      ],
+      "season": "autumn"
+    },
+    {
+      "textures": [
+        {
+          "all": "es_x_bwg_extra:block/winter_brown_zelkova_leaves"
+        }
+      ],
+      "season": "winter"
+    },
+    {
+      "transition_textures": [
+        {
+          "all": "es_x_bwg_extra:block/winter_brown_zelkova_leaves"
+        },
+        {
+          "all": "es_x_bwg_extra:block/spring_brown_zelkova_leaves"
+        }
+      ],
+      "solar_term": "beginning_of_spring"
+    },
+    {
+      "transition_textures": [
+        {
+          "all": "es_x_bwg_extra:block/spring_brown_zelkova_leaves"
+        },
+        {
+          "all": "es_x_bwg_extra:block/summer_brown_zelkova_leaves"
+        }
+      ],
+      "solar_term": "beginning_of_summer"
+    },
+    {
+      "transition_textures": [
+        {
+          "all": "es_x_bwg_extra:block/summer_brown_zelkova_leaves"
+        },
+        {
+          "all": "biomeswevegone:block/brown_zelkova_leaves"
+        }
+      ],
+      "solar_term": "beginning_of_autumn"
+    },
+    {
+      "transition_textures": [
+        {
+          "all": "biomeswevegone:block/brown_zelkova_leaves"
+        },
+        {
+          "all": "es_x_bwg_extra:block/winter_brown_zelkova_leaves"
+        }
+      ],
+      "solar_term": "beginning_of_winter"
+    }
+  ]
+}

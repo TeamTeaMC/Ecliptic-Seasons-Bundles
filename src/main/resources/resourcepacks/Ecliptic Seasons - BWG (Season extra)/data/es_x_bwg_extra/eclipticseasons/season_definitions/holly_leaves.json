@@ -1,0 +1,58 @@
+{
+  "changes": {
+    "default": [
+      {
+        "target": {
+          "blocks": "biomeswevegone:holly_berry_leaves",
+          "state": {
+            "persistent": "false"
+          }
+        },
+        "place": {
+          "block": {
+            "Name": "biomeswevegone:holly_leaves"
+          },
+          "copy_state": true
+        }
+      }
+    ],
+    "seasons": {
+      "winter": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:holly_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.25,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:holly_berry_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "spring": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:holly_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.18,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:holly_berry_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ]
+    }
+  }
+}

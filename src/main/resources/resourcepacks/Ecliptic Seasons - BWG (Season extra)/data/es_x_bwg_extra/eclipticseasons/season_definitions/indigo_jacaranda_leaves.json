@@ -1,0 +1,58 @@
+{
+  "changes": {
+    "seasons": {
+      "spring": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:indigo_jacaranda_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.25,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:flowering_indigo_jacaranda_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "summer": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:indigo_jacaranda_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.18,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:flowering_indigo_jacaranda_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "winter": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:flowering_indigo_jacaranda_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:indigo_jacaranda_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ]
+    }
+  }
+}

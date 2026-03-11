@@ -1,11 +1,10 @@
 {
-  "biomes": "minecraft:plains",
   "changes": {
     "seasons": {
-      "spring": [
+      "summer": [
         {
           "target": {
-            "blocks": "biomeswevegone:orchard_leaves",
+            "blocks": "biomeswevegone:baobab_leaves",
             "state": {
               "persistent": "false"
             }
@@ -14,37 +13,7 @@
           "chance": 0.18,
           "place": {
             "block": {
-              "Name": "biomeswevegone:flowering_orchard_leaves"
-            },
-            "copy_state": true
-          }
-        }
-      ],
-      "summer": [
-        {
-          "target": {
-            "blocks": "biomeswevegone:flowering_orchard_leaves",
-            "state": {
-              "persistent": "false"
-            }
-          },
-          "place": {
-            "block": {
-              "Name": "biomeswevegone:orchard_leaves"
-            },
-            "copy_state": true
-          }
-        },
-        {
-          "target": {
-            "blocks": "biomeswevegone:ripe_orchard_leaves",
-            "state": {
-              "persistent": "false"
-            }
-          },
-          "place": {
-            "block": {
-              "Name": "biomeswevegone:orchard_leaves"
+              "Name": "biomeswevegone:flowering_baobab_leaves"
             },
             "copy_state": true
           }
@@ -53,7 +22,7 @@
       "autumn": [
         {
           "target": {
-            "blocks": "biomeswevegone:orchard_leaves",
+            "blocks": "biomeswevegone:flowering_baobab_leaves",
             "state": {
               "persistent": "false"
             }
@@ -62,14 +31,14 @@
           "chance": 0.10,
           "place": {
             "block": {
-              "Name": "biomeswevegone:ripe_orchard_leaves"
+              "Name": "biomeswevegone:ripe_baobab_leaves"
             },
             "copy_state": true
           }
         },
         {
           "target": {
-            "blocks": "biomeswevegone:ripe_orchard_leaves",
+            "blocks": "biomeswevegone:ripe_baobab_leaves",
             "state": {
               "persistent": "false"
             }
@@ -78,48 +47,52 @@
           "chance": 0.35,
           "place": {
             "block": {
-              "Name": "biomeswevegone:apple_fruit"
+              "Name": "biomeswevegone:baobab_fruit"
             },
             "replace": false,
-            "offset": [0, -1, 0]
+            "offset": [
+              0,
+              -1,
+              0
+            ]
           }
         }
       ],
       "winter": [
         {
           "target": {
-            "blocks": "biomeswevegone:flowering_orchard_leaves",
+            "blocks": "biomeswevegone:flowering_baobab_leaves",
             "state": {
               "persistent": "false"
             }
           },
           "place": {
             "block": {
-              "Name": "biomeswevegone:orchard_leaves"
+              "Name": "biomeswevegone:baobab_leaves"
             },
             "copy_state": true
           }
         },
         {
           "target": {
-            "blocks": "biomeswevegone:ripe_orchard_leaves",
+            "blocks": "biomeswevegone:ripe_baobab_leaves",
             "state": {
               "persistent": "false"
             }
           },
           "place": {
             "block": {
-              "Name": "biomeswevegone:orchard_leaves"
+              "Name": "biomeswevegone:baobab_leaves"
             },
             "copy_state": true
           }
         },
         {
           "target": {
-            "blocks": "biomeswevegone:apple_fruit"
+            "blocks": "biomeswevegone:baobab_fruit"
           },
           "place": {
-            "loot": "biomeswevegone:blocks/apple_fruit"
+            "loot": "biomeswevegone:blocks/baobab_fruit"
           }
         }
       ]

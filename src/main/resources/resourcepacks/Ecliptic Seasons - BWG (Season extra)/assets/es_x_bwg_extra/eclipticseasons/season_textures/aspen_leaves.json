@@ -6,8 +6,7 @@
     {
       "textures": [
         {
-          "all": "es_x_bwg_extra:block/aspen/spring_leaves",
-          "particle": "es_x_bwg_extra:block/aspen/spring_leaves"
+          "all": "es_x_bwg_extra:block/aspen/spring_leaves"
         }
       ],
       "season": "spring"
@@ -15,8 +14,7 @@
     {
       "textures": [
         {
-          "all": "es_x_bwg_extra:block/aspen/summer_leaves",
-          "particle": "es_x_bwg_extra:block/aspen/summer_leaves"
+          "all": "es_x_bwg_extra:block/aspen/summer_leaves"
         }
       ],
       "season": "summer"
@@ -24,8 +22,7 @@
     {
       "textures": [
         {
-          "all": "biomeswevegone:block/aspen/leaves",
-          "particle": "es_x_bwg_extra:block/aspen/leaves"
+          "all": "biomeswevegone:block/aspen/leaves"
         }
       ],
       "season": "autumn"
@@ -33,8 +30,7 @@
     {
       "textures": [
         {
-          "all": "es_x_bwg_extra:block/aspen/winter_leaves",
-          "particle": "es_x_bwg_extra:block/aspen/winter_leaves"
+          "all": "es_x_bwg_extra:block/aspen/winter_leaves"
         }
       ],
       "season": "winter"

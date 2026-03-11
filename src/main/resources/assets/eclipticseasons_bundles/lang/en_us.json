@@ -30,5 +30,7 @@
   "pack.eclipticseasons_bundles.es_dp_x_feywild": "Ecliptic Seasons DataPack - FeyWild",
   "pack_description.eclipticseasons_bundles.es_dp_x_feywild": "Adds some task for FeyWild to acquire greenhouse core.",
   "pack.eclipticseasons_bundles.es_x_quark": "Ecliptic Seasons - Quark",
-  "pack_description.eclipticseasons_bundles.es_x_quark": "Snow-covered models for vertical slabs."
+  "pack_description.eclipticseasons_bundles.es_x_quark": "Snow-covered models for vertical slabs.",
+  "pack.eclipticseasons_bundles.es_x_bwg_extra": "Ecliptic Seasons - BWG (Season extra)",
+  "pack_description.eclipticseasons_bundles.es_x_bwg_extra": "Add seasonal changes or texture effects to some blocks.。"
 }

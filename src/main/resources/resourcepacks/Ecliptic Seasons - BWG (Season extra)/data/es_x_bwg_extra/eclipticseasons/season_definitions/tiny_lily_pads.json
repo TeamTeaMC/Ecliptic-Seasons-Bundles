@@ -1,0 +1,60 @@
+{
+  "changes": {
+    "solar_terms": {
+      "grain_rain": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:tiny_lily_pads"
+          },
+          "fixed_seed": true,
+          "chance": 0.28,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:flowering_tiny_lily_pads"
+            }
+          }
+        }
+      ]
+    },
+    "seasons": {
+      "summer": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:tiny_lily_pads"
+          },
+          "fixed_seed": true,
+          "chance": 0.78,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:flowering_tiny_lily_pads"
+            }
+          }
+        }
+      ],
+      "autumn": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:flowering_tiny_lily_pads"
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:tiny_lily_pads"
+            }
+          }
+        }
+      ],
+      "winter": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:flowering_tiny_lily_pads"
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:tiny_lily_pads"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

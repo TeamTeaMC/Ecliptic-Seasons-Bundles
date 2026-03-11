@@ -1,0 +1,12 @@
+{
+  "apply_target": {
+    "blocks": "#es_x_bwg_extra:natural_leaves",
+    "state": {
+      "persistent": "false"
+    }
+  },
+  "climate": "eclipticseasons:temperate",
+  "season_default": {
+    "grow_chance": 0
+  }
+}

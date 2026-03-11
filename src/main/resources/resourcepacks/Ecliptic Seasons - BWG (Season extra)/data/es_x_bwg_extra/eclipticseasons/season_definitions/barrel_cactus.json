@@ -1,0 +1,36 @@
+{
+  "changes": {
+    "default": [
+      {
+        "target": {
+          "blocks": "biomeswevegone:barrel_cactus"
+        },
+        "chance": 0.001,
+        "place": {
+          "block": {
+            "Name": "biomeswevegone:flowering_barrel_cactus"
+          },
+          "conditions": {
+            "type": "precipitation",
+            "precipitation": "rain"
+          }
+        }
+      },
+      {
+        "target": {
+          "blocks": "biomeswevegone:flowering_barrel_cactus"
+        },
+        "chance": 0.0001,
+        "place": {
+          "block": {
+            "Name": "biomeswevegone:barrel_cactus"
+          },
+          "conditions": {
+            "type": "precipitation",
+            "precipitation": "none"
+          }
+        }
+      }
+    ]
+  }
+}

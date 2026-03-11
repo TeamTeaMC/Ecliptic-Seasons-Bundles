@@ -1,0 +1,58 @@
+{
+  "changes": {
+    "seasons": {
+      "summer": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:ironwood_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.18,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:flowering_ironwood_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "autumn": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:ironwood_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "fixed_seed": true,
+          "chance": 0.12,
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:flowering_ironwood_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ],
+      "winter": [
+        {
+          "target": {
+            "blocks": "biomeswevegone:flowering_ironwood_leaves",
+            "state": {
+              "persistent": "false"
+            }
+          },
+          "place": {
+            "block": {
+              "Name": "biomeswevegone:ironwood_leaves"
+            },
+            "copy_state": true
+          }
+        }
+      ]
+    }
+  }
+}
