@@ -1,5 +1,5 @@
 {
-  "parent": "terrainslabs:block/ontop/tinted_cross",
+  "parent": "terrainslabs:block/ontop/cross",
   "textures": {
     "cross": "eclipticseasons:block/snowy_fern"
   }
