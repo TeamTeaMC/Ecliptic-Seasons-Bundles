@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "${mod_id}",
+  "version": "${mod_version}",
+  "name": "${mod_name}",
+  "description": "${mod_description}",
+  "authors": [
+    "joe_vettek(jianzoushihu)"
+  ],
+  "contact": {
+    "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/ecliptic-seasons-bundles",
+    "sources": "https://github.com/TeamTeaMC/Ecliptic-Seasons-Bundles"
+  },
+  "license": "${mod_license}",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+  },
+  "depends": {
+    "eclipticseasons": ">=0.12.7"
+  }
+}

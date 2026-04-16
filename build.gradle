@@ -186,7 +186,8 @@ tasks.withType(ProcessResources).configureEach {
     ]
     inputs.properties replaceProperties
 
-    filesMatching(['pack.mcmeta', 'META-INF/neoforge.mods.toml', 'META-INF/mods.toml']) {
+    filesMatching(['pack.mcmeta', 'META-INF/neoforge.mods.toml', 'META-INF/mods.toml',
+                   'fabric.mod.json']) {
         expand replaceProperties + [project: project]
     }
 }

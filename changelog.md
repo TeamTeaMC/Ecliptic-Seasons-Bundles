@@ -2,6 +2,8 @@
 
 Add three snowy grass model for  Countered's Terrain Slabs.
 
+Add Fabric Support (26.1).
+
 ## **Update Log**
 
 ### **New Optional DataPack: *Ecliptic Seasons – Bountiful Fares (Season Extra)***

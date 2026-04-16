@@ -108,6 +108,8 @@ jobs:
           loaders: |
             neoforge
             forge
+            fabric
           name: "${{env.RELEASE_NAME}}"
+          dependencies: ""
           files: |
             build/libs/${{ env.RELEASE_NAME }}
