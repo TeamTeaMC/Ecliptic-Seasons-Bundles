@@ -1,3 +1,7 @@
+## News on 0.17
+
+Add three snowy grass model for  Countered's Terrain Slabs.
+
 ## **Update Log**
 
 ### **New Optional DataPack: *Ecliptic Seasons – Bountiful Fares (Season Extra)***

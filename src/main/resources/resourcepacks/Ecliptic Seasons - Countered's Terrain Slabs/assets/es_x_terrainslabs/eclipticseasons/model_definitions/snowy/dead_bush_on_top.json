@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_terrainslabs:block/snowy/dead_bush_on_top"
+    }
+  }
+}

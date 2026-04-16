@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_terrainslabs:block/snowy/fern_on_top"
+    }
+  }
+}

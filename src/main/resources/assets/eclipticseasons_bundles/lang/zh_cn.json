@@ -34,5 +34,7 @@
   "pack.eclipticseasons_bundles.es_x_bwg_extra": "节气 x 我们走过的群系 （季节附加）",
   "pack_description.eclipticseasons_bundles.es_x_bwg_extra": "为一些方块增加季节变化或者纹理效果。",
   "pack.eclipticseasons_bundles.es_dp_x_bountifulfares_extra": "节气数据包 - 丰饶食记 （季节附加）",
-  "pack_description.eclipticseasons_bundles.es_dp_x_bountifulfares_extra": "为一些方块增加季节变化。"
+  "pack_description.eclipticseasons_bundles.es_dp_x_bountifulfares_extra": "为一些方块增加季节变化。",
+  "pack.eclipticseasons_bundles.es_x_terrainslabs": "节气 x Countered's Terrain Slabs",
+  "pack_description.eclipticseasons_bundles.es_x_terrainslabs": "提供了一些台阶植物的冬季景观变化"
 }

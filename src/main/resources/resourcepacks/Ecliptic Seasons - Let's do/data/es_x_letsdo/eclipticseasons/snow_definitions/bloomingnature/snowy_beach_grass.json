@@ -5,12 +5,8 @@
   "flag": 1001,
   "neoforge:conditions": [
     {
-      "modid": "bloomingnature",
+      "modid": "bloomingnature_deleted",
       "type": "neoforge:mod_loaded"
-    },
-    {
-      "item": "bloomingnature:beach_grass",
-      "type": "neoforge:item_exists"
     }
   ],
   "forge:conditions": [
