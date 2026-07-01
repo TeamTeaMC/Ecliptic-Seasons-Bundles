@@ -1,3 +1,7 @@
+## 0.18
+
+Add snowy model support for Chipped.
+
 ## News on 0.17
 
 Add three snowy grass model for  Countered's Terrain Slabs.
