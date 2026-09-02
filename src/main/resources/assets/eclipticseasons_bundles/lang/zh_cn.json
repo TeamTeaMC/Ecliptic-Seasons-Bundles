@@ -1,4 +1,7 @@
 {
+  "eclipticseasons_bundles.options.title": "节气：捆绑包",
+  "eclipticseasons_bundles.options.all": "全部配置",
+  "eclipticseasons_bundles.options.all.tooltip": "查看并管理所有已安装节气附属包的配置",
   "eclipticseasons_bundles.configuration.Enable": "启用",
   "eclipticseasons_bundles.configuration.PriorityLoading": "优先加载",
   "pack.eclipticseasons_bundles.es_x_bop": "节气 x 丰富生物群系",

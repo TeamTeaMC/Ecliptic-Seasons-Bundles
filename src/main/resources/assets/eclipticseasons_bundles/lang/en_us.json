@@ -1,4 +1,7 @@
 {
+  "eclipticseasons_bundles.options.title": "Bundles",
+  "eclipticseasons_bundles.options.all": "Common",
+  "eclipticseasons_bundles.options.all.tooltip": "View and manage configurations for all installed Ecliptic Seasons bundles",
   "eclipticseasons_bundles.configuration.Enable": "Enable",
   "eclipticseasons_bundles.configuration.PriorityLoading": "Priority Loading",
   "pack.eclipticseasons_bundles.es_x_bop": "Ecliptic Seasons - Biomes O' Plenty",
